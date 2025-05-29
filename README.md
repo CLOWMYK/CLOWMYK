@@ -1,5 +1,31 @@
 # 💫 About Me:
-Age: 18 years old<br><br>Education: Student at Senai, studying Systems Development<br><br>Technical Skills:<br><br>Basic programming in Lua<br><br>Computer maintenance and organization<br><br>Experience with Filezilla and hosting management<br><br>Management and Leadership:<br><br>Excellent administrator and manager<br><br>Owner of the BVL server<br><br>Co-founder of the Luxuria LTDA team<br><br>Former owner of Meta Arkastic<br><br>Former general director of the Favela City server<br><br>Experience in managing several game servers<br><br>Entrepreneurship:<br><br>Founder and manager of several communities and game servers
+💫 About Me:
+👤 Age: 18 years old
+
+🎓 Education: Student at Senai, studying Systems Development 💻
+
+🛠️ Technical Skills:
+💻 Basic programming in Lua 🐍
+
+🖥️ Computer maintenance and organization 🛠️
+
+🌐 Experience with Filezilla and hosting management 📂
+
+📊 Management and Leadership:
+🏆 Excellent administrator and manager 👨‍💼
+
+🎮 Owner of the BVL server 🖥️
+
+🤝 Co-founder of the Luxuria LTDA team 🚀
+
+🏢 Former owner of Meta Arkastic 🕹️
+
+🎯 Former general director of the Favela City server 🕹️
+
+🎲 Experience in managing several game servers 🎮
+
+🚀 Entrepreneurship:
+💡 Founder and manager of several communities and game servers 🌍🎮
 
 
 ## 🌐 Socials:
